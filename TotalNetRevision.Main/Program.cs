@@ -10,6 +10,7 @@ namespace TotalNetRevision.Main
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Let's start! Again...");
         }
     }
 }
